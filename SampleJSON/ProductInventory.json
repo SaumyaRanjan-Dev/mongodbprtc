@@ -1,0 +1,26 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Laptop",
+    "brand": "Dell",
+    "price": 55000,
+    "stock": 10,
+    "specifications": {
+      "processor": "Intel i5",
+      "ram": "8GB",
+      "storage": "512GB SSD"
+    }
+  },
+  {
+    "product_id": "P002",
+    "name": "Smartphone",
+    "brand": "Samsung",
+    "price": 20000,
+    "stock": 25,
+    "specifications": {
+      "processor": "Exynos 2100",
+      "ram": "6GB",
+      "storage": "128GB"
+    }
+  }
+]
