@@ -1,0 +1,24 @@
+[
+  {
+    "student_id": "S001",
+    "name": "John Doe",
+    "age": 20,
+    "courses": ["Math", "Physics", "Computer Science"],
+    "grades": {
+      "Math": "A",
+      "Physics": "B+",
+      "Computer Science": "A+"
+    }
+  },
+  {
+    "student_id": "S002",
+    "name": "Jane Smith",
+    "age": 22,
+    "courses": ["Biology", "Chemistry", "Math"],
+    "grades": {
+      "Biology": "A+",
+      "Chemistry": "A",
+      "Math": "B"
+    }
+  }
+]
