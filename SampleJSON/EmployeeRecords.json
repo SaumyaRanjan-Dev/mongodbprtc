@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Amit",
+    "age": 27,
+    "city": "Noida",
+    "identity": {
+      "adhaar": 54678987654,
+      "pan": "TUFEU5905D"
+    }
+  },
+  {
+    "name": "Riya",
+    "age": 25,
+    "city": "Delhi",
+    "identity": {
+      "adhaar": 98765432100,
+      "pan": "RIYA1234P"
+    }
+  }
+]
