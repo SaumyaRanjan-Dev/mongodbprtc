@@ -1,0 +1,33 @@
+[
+  {
+    "order_id": "O001",
+    "customer_name": "Alice",
+    "items": [
+      {
+        "product_id": "P001",
+        "quantity": 1,
+        "price": 55000
+      },
+      {
+        "product_id": "P002",
+        "quantity": 2,
+        "price": 40000
+      }
+    ],
+    "total_price": 95000,
+    "status": "Shipped"
+  },
+  {
+    "order_id": "O002",
+    "customer_name": "Bob",
+    "items": [
+      {
+        "product_id": "P003",
+        "quantity": 1,
+        "price": 1500
+      }
+    ],
+    "total_price": 1500,
+    "status": "Processing"
+  }
+]
